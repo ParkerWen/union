@@ -1,6 +1,3 @@
 {
-  "name":"parker-wen/union",
-  "require": {
-	  "parker-wen/union": "dev-master"
-  }
+  "name":"parker-wen/union"
 }
